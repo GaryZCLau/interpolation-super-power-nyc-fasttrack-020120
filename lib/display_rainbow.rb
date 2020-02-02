@@ -11,4 +11,4 @@ def display_rainbow(colors)
 
 end
 
-puts display_rainbow
+puts display_rainbow("colors")
